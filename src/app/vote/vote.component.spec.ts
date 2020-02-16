@@ -11,6 +11,7 @@ describe('VoteComponent', () => {
 
     afterEach(() => {
         // Tear down
+        // Perform clean up activity
     });
     beforeAll(() => {});
     afterAll(() => {});
